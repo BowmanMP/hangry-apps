@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hangry-apps/static/css/main.1c04f475.chunk.css",
+    "main.js": "/hangry-apps/static/js/main.ac24bd65.chunk.js",
+    "main.js.map": "/hangry-apps/static/js/main.ac24bd65.chunk.js.map",
+    "runtime-main.js": "/hangry-apps/static/js/runtime-main.a7e4575f.js",
+    "runtime-main.js.map": "/hangry-apps/static/js/runtime-main.a7e4575f.js.map",
+    "static/js/2.bd2d3f9e.chunk.js": "/hangry-apps/static/js/2.bd2d3f9e.chunk.js",
+    "static/js/2.bd2d3f9e.chunk.js.map": "/hangry-apps/static/js/2.bd2d3f9e.chunk.js.map",
+    "static/js/3.3a303f86.chunk.js": "/hangry-apps/static/js/3.3a303f86.chunk.js",
+    "static/js/3.3a303f86.chunk.js.map": "/hangry-apps/static/js/3.3a303f86.chunk.js.map",
+    "index.html": "/hangry-apps/index.html",
+    "static/css/main.1c04f475.chunk.css.map": "/hangry-apps/static/css/main.1c04f475.chunk.css.map",
+    "static/js/2.bd2d3f9e.chunk.js.LICENSE.txt": "/hangry-apps/static/js/2.bd2d3f9e.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/hangry-apps/static/media/background_search_mobile.9e607f23.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7e4575f.js",
+    "static/js/2.bd2d3f9e.chunk.js",
+    "static/css/main.1c04f475.chunk.css",
+    "static/js/main.ac24bd65.chunk.js"
+  ]
+}
