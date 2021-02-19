@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hangry-apps/static/css/main.1c04f475.chunk.css",
-    "main.js": "/hangry-apps/static/js/main.ac24bd65.chunk.js",
-    "main.js.map": "/hangry-apps/static/js/main.ac24bd65.chunk.js.map",
+    "main.js": "/hangry-apps/static/js/main.0466eba1.chunk.js",
+    "main.js.map": "/hangry-apps/static/js/main.0466eba1.chunk.js.map",
     "runtime-main.js": "/hangry-apps/static/js/runtime-main.a7e4575f.js",
     "runtime-main.js.map": "/hangry-apps/static/js/runtime-main.a7e4575f.js.map",
     "static/js/2.bd2d3f9e.chunk.js": "/hangry-apps/static/js/2.bd2d3f9e.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a7e4575f.js",
     "static/js/2.bd2d3f9e.chunk.js",
     "static/css/main.1c04f475.chunk.css",
-    "static/js/main.ac24bd65.chunk.js"
+    "static/js/main.0466eba1.chunk.js"
   ]
 }
